@@ -1,0 +1,25 @@
+# CodaJsClient.ColumnFormatType
+
+## Enum
+
+* `text` (value: `"text"`)
+* `person` (value: `"person"`)
+* `lookup` (value: `"lookup"`)
+* `number` (value: `"number"`)
+* `percent` (value: `"percent"`)
+* `currency` (value: `"currency"`)
+* `date` (value: `"date"`)
+* `dateTime` (value: `"dateTime"`)
+* `time` (value: `"time"`)
+* `duration` (value: `"duration"`)
+* `email` (value: `"email"`)
+* `slider` (value: `"slider"`)
+* `scale` (value: `"scale"`)
+* `image` (value: `"image"`)
+* `attachments` (value: `"attachments"`)
+* `button` (value: `"button"`)
+* `checkbox` (value: `"checkbox"`)
+* `select` (value: `"select"`)
+* `packObject` (value: `"packObject"`)
+* `reaction` (value: `"reaction"`)
+* `other` (value: `"other"`)
